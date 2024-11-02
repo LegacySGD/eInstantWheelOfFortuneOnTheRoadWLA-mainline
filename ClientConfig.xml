@@ -1,0 +1,8 @@
+<ClientConfig>
+	<GameClient name="Wheel Of Fortune On The Road" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="WheelOfFortuneOnTheRoad" enableFreeSpin="Y" clientversion="1.0" gameId="300-2110-0" />
+	<GameClient name="Wheel Of Fortune On The Road" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="WheelOfFortuneOnTheRoad" enableFreeSpin="Y" clientversion="1.0" gameId="300-2110-0" />
+	<GameClient name="Wheel Of Fortune On The Road" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="WheelOfFortuneOnTheRoad" enableFreeSpin="Y" clientversion="1.0" gameId="300-2110-0" />
+
+	<GameClient name="Wheel Of Fortune On The Road" clientCode="tabletmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="WheelOfFortuneOnTheRoad" enableFreeSpin="Y" clientversion="1.0" gameId="300-2110-0" />
+	<GameClient name="Wheel Of Fortune On The Road" clientCode="desktopmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="WheelOfFortuneOnTheRoad" enableFreeSpin="Y" clientversion="1.0" gameId="300-2110-0" />
+</ClientConfig>
